@@ -1,0 +1,30 @@
+建议仓库名：antigravity-zh-cn
+
+建议 About 描述：
+Antigravity 中文界面补丁｜Windows 一键安装与恢复｜本地翻译、源码可审阅。觉得好用，欢迎 Star ⭐
+
+建议 Topics：
+antigravity, chinese, zh-cn, localization, i18n, windows, patch
+
+上传源码
+1. 在你自己的 GitHub 账号新建公开仓库，建议使用上面的仓库名。
+2. 解压源码包，上传 antigravity-zh-cn 文件夹内部的内容到仓库根目录。
+3. 确保 README.md、LICENSE、src、tests、tools 等都在仓库根目录。
+4. 如使用网页上传，请核对 .gitignore、.gitattributes、.github 等隐藏项目是否一并上传。
+
+发布普通用户下载包
+1. 创建 Release，标签建议为 v0.1.0。
+2. 标题建议：Antigravity 中文界面补丁 v0.1.0 · Windows
+3. 上传提供的 Antigravity-ZH-CN-v0.1.0-windows-x64.zip 和对应 .sha256 文件。
+4. 发布说明可直接复制 RELEASE_NOTES.md。
+5. README 的 Releases 指引会让用户从仓库的 Releases 页面下载 EXE 版。
+
+不要上传
+- 原先本机补丁目录里的 app.asar.original、app.asar.zh、backup.json。
+- 任何 Antigravity 原程序、私人账号文件、用户数据、安装日志或私人备份。
+- 本机 Python 虚拟环境、build 目录及临时测试文件。
+
+Star 引导已经写在 README 和安装成功提示里。它是自愿支持，不影响下载或安装。
+本包没有自动创建仓库、上传文件或发布 Release；以上操作由你在自己的 GitHub 完成。
+
+本机已安装的旧补丁不受本次打包影响。若要换用公开安装器，请先用旧目录的“恢复英文原版.cmd”恢复，再使用公开版安装。
