@@ -6,6 +6,8 @@
 
 Windows · Antigravity 2.34.0 指定构建 · 可恢复 · 非官方
 
+[下载中文补丁](https://github.com/liangjianyang8234-hue/antigravity-zh-cn/releases/latest) · [反馈问题](https://github.com/liangjianyang8234-hue/antigravity-zh-cn/issues)
+
 如果这个项目帮到了你，欢迎点击仓库右上角的 **Star ⭐**。
 
 点亮一颗星，让更多需要中文界面的朋友找到它。
